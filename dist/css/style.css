@@ -439,6 +439,7 @@ body {
 .shopping {
   padding: 3rem 4rem;
   display: flex;
+  overflow: auto;
   flex-direction: column; }
   .shopping__list {
     list-style: none;
